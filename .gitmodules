@@ -1,6 +1,7 @@
 [submodule "adflow"]
 	path = adflow
 	url = https://github.com/mdolab/adflow.git
+	branch = v1.0
 [submodule "dafoam"]
 	path = dafoam
 	url = https://github.com/mdolab/dafoam.git
